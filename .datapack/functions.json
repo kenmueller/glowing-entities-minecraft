@@ -1,1 +1,1 @@
-{"glowing-entities":{"required":{"$func":["glowing-entities","glowing-entities"]},"$func":["gameloop","core"]}}
+{"glowing-entities":{"$func":["tick"]}}

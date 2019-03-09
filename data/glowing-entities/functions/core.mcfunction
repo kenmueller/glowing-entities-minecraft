@@ -1,1 +1,0 @@
-function glowing-entities:required/glowing-entities
