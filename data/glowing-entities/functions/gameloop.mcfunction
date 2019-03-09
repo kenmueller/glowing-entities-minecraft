@@ -1,0 +1,1 @@
+function glowing-entities:core
